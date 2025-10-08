@@ -79,7 +79,7 @@ pip install numpy pandas
 Aya Nabih
 📊 Data Scientist & University Lecturer.
 🎓 Specializing in Machine Learning, NLP, and Educational Content Development.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aya-fouad-nabih)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aya-fouad-nabih-4a2036188)
 
 
 ### ⭐ Acknowledgments
